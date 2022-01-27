@@ -1,8 +1,9 @@
 package mipush
 
 import (
-	"go-mipush/httpclient"
 	"log"
+
+	"github.com/Scorpio69t/go-mipush/httpclient"
 )
 
 type MIPushClient struct {
